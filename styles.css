@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+main{
+	background-color: #f5f5f5;
+	padding:30px;
+}
+
+h1{
+	padding-left: 10px;
+}
+
+div{
+	background-color: white;
+	border: 1px solid lightgray;
+	line-height: 0px;
+	padding :10px;
+}
+
+
+p{
+	margin-left:20px;
+}
+
+.author{
+	font-style:italic;
+}
+
+
+
+
+
+
